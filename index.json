@@ -1,0 +1,38 @@
+{
+	"id": "com.demo.gauge",
+	"version": "1.0.0",
+	"name": "Demo Gauge",
+	"description": "A gauge demo",
+	"newInstancePrefix": "Gauge",
+	"icon": "",
+	"vendor": "Demo",
+	"eula": "EULA",
+	"license": "1.0",
+	"webcomponents": [
+		{
+			"kind": "main",
+			"tag": "data",
+			"url": "https://github.com/HeGuerrero/candlestick/blob/master/index.js",
+			"integrity": "",
+			"ignoreIntegrity": true
+		
+		}
+	],
+	"properties": {
+		
+		"color": {
+			"type": "string",
+			"description": "Text Color info",
+			"default": "#3498db"
+		},
+		"width": {
+			"type": "integer",
+			"default": 100
+		},
+		"height": {
+			"type": "integer",
+			"default": 100
+		}
+	},
+
+}
