@@ -1,9 +1,9 @@
 {
-	"id": "com.demo.gauge",
+	"id": "com.demo.SAC",
 	"version": "1.0.0",
-	"name": "Demo Gauge",
-	"description": "A gauge demo",
-	"newInstancePrefix": "Gauge",
+	"name": "pie chart",
+	"description": "3d pie chart",
+	"newInstancePrefix": "chart pie",
 	"icon": "",
 	"vendor": "Demo",
 	"eula": "EULA",
@@ -12,7 +12,7 @@
 		{
 			"kind": "main",
 			"tag": "data",
-			"url": "https://github.com/HeGuerrero/candlestick/blob/master/index.js",
+			"url": "https://github.com/HeGuerrero/candlestick/blob/master/index_box.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		
